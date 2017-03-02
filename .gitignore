@@ -3,3 +3,6 @@ VBox/
 setup/
 *.sh
 hidden/
+2016*.txt
+*history*
+.assign2
